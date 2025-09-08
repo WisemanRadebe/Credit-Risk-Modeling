@@ -72,3 +72,23 @@ The following algorithms were tested and compared:
    ```bash
    git clone https://github.com/your-username/credit-risk-analysis.git
    cd credit-risk-analysis
+   
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3. Open the notebook:
+```
+jupyter notebook Notebook.ipynb
+```
+
+## 📌 Future Improvements
+
+- Hyperparameter tuning for better model performance.
+- Implementing deep learning approaches.
+- Building a web-based API for credit risk prediction.
+- Deploying as a dashboard (Streamlit or Flask).
+
+## 📜 License
+
+This project is licensed under the MIT License.
